@@ -1,0 +1,46 @@
+Academic Papers
+	1.	Scarfone, K., & Souppaya, M. (2013).
+Guide to Enterprise Patch Management Technologies.
+National Institute of Standards and Technology (NIST), SP 800-40 Rev. 3.
+Link: https://csrc.nist.gov/publications/detail/sp/800-40/rev-3/final
+Summary: This publication outlines best practices for vulnerability and patch management in enterprise environments, emphasizing continuous scanning, prioritization, and remediation. It provided context for how automated vulnerability assessment tools fit into a larger security lifecycle.
+Used in: Vulnerability Management and Risk Assessment Module
+
+⸻
+
+Technical Documentation
+	1.	OWASP Nettacker Official Documentation
+Link: https://github.com/OWASP/Nettacker
+Summary: This documentation was used to understand OWASP Nettacker’s installation process, dependency requirements, command-line options, scan configuration, and platform limitations. It guided tool setup, execution, and troubleshooting throughout the project.
+
+⸻
+
+GitHub Projects
+	1.	OWASP Nettacker by OWASP
+Link: https://github.com/OWASP/Nettacker
+Summary: This repository served as the primary tool used in the project. It provided hands-on experience with an open-source vulnerability assessment framework, including dependency management, scan configuration, execution, and understanding operating system compatibility constraints.
+Used in: Automated Vulnerability Assessment Project
+
+⸻
+
+Videos and Tutorials
+	1.	“Getting Started with OWASP Nettacker”
+Link: https://www.youtube.com/results?search_query=owasp+nettacker+tutorial
+Creator: Community cybersecurity educators
+What you learned: These tutorials helped reinforce understanding of Nettacker’s command-line usage, scan workflow, and common setup issues encountered by new users.
+
+⸻
+
+Industry Reports and Whitepapers
+	1.	Verizon. (2024).
+Data Breach Investigations Report (DBIR).
+Link: https://www.verizon.com/business/resources/reports/dbir/
+Summary: The report highlights common causes of security breaches, including unpatched vulnerabilities and misconfigurations. It reinforced the importance of automated vulnerability scanning and continuous risk identification.
+Used in: Industry Risk Analysis and Security Operations
+
+⸻
+
+Blogs and Articles
+	1.	OWASP Foundation – Vulnerability Scanning Overview
+Link: https://owasp.org/www-community/Vulnerability_Scanning
+Summary: This article provided background on vulnerability scanning concepts, including the role of automated tools, scan limitations, and the importance of human analysis when interpreting 
